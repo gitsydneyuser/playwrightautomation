@@ -1,0 +1,11 @@
+Installation of typescript compiler :
+-----------------------------------
+1. NodeJs (link - https://nodejs.org/en/download)
+2. npm init -y 
+3. npm (node package manager) - used to install node packages (or any javascript relared libraries/dependencies)
+4.need to install typescript compiler 
+npm install typescript --save-dev 
+5.npx tsc 
+6.Configuring the compiler -
+
+  npx tsc --init
