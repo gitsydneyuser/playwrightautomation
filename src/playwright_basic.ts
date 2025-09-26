@@ -16,7 +16,6 @@ await page.locator("(//input[@name='btnK'])[2]").click();
 
 
 
-
 })();
 
 
