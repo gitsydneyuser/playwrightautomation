@@ -39,6 +39,7 @@
 //     Idle = "IDLE",
 // }
 
+//adding a comment here
 // async function launchBrowser(browserType: string) {
 
 // console.log(`Launching ${browserType} browser...`);
